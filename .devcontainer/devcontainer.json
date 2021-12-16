@@ -1,5 +1,5 @@
 {
-  "name": "Substrate Node template",
+  "name": "HALO 1.1 Substrate Node template",
   "context": "..",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash",
